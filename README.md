@@ -1,14 +1,12 @@
-Thys Call
 ==========================
 
-Product Builder
+Aspiring Product Builder
 ---------------
 
 Just last year I saw the need for technical abilities while building a product that increased patent drafting efficiency for IP lawyers and firms by 20%. My passion for business growth soon grew to a desire to build real products that provide real value to real people.
 
 * 🏔️  Utah based
-* 🚀  I'm currently working on my soccer training business [website](http://startup.toca.pro)
-* 🔜  Java and TypeScript
+* 🚀  Working on my soccer training business [website](http://startup.toca.pro)
 * 📈  All things product, startups, web design, brand strategy, UX/UI, sports performance, behavioral psych, and more.
 
 <a href="https://www.x.com/callthys" target="_blank" rel="noreferrer"><img
