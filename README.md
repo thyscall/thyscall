@@ -7,7 +7,7 @@ Product Builder
 Just last year I saw the need for technical abilities while building a product that increased patent drafting efficiency for IP lawyers and firms by 20%. My passion for business growth soon grew to a desire to build real products that provide real value to real people.
 
 * 🏔️  Utah based
-* 🚀  I'm currently working on [Toca Soccer Trainings](http://www.toca.pro)
+* 🚀  I'm currently working on [Toca Soccer Trainings](http://startup.toca.pro)
 * 🔜  Java and TypeScript
 * 📈  All things startups, web design, brand strategy, sports performance, and more.
 
