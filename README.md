@@ -9,7 +9,7 @@ Just last year I saw the need for technical abilities while building a product t
 * 🏔️  Utah based
 * 🚀  I'm currently working on [Toca Soccer Trainings](http://startup.toca.pro)
 * 🔜  Java and TypeScript
-* 📈  All things startups, web design, brand strategy, sports performance, and more.
+* 📈  All things product, startups, web design, brand strategy, UX/UI, sports performance, behavioral psych, and more.
 
 <a href="https://www.x.com/callthys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/callthys?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
