@@ -1,7 +1,7 @@
-Aspiring Product Builder
+Solving problems with products
 ---------------
 
-Just last year I saw the need for technical abilities while building a product that increased patent drafting efficiency for IP lawyers and firms by 20%. My passion for business growth soon grew to a desire to build real products that provide real value to real people.
+Just last year I saw the need for technical abilities while founding a startup called Parallel that increased patent drafting efficiency for IP lawyers and firms by 20%. My passion for business growth soon grew to a desire to build real products that provide real value to real people.
 
 * 🏔️  Utah based
 * 🚀  Working on my soccer training business [website](http://startup.toca.pro)
