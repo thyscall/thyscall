@@ -1,12 +1,11 @@
 Solving real problems with real products
 ---------------
 
-Just last year I saw the need for technical abilities while founding a startup called Parallel that increased patent drafting efficiency for IP lawyers and firms by 20%. My passion for business growth soon grew to a desire to build real products that provide real value to real people. My technical product management journey is in full swing!
+I saw the need for technical abilities while founding a legaltech startup called Parallel that increased patent drafting efficiency for IP lawyers and firms by 20%. My passion for business growth soon grew to a desire to build high-value products. My product engineering journey is here.
 
 * 📈  All things product, startups, web design, brand strategy, UX/UI, sports performance, behavioral psych, and more.
 * 🏔️  Utah born, Hoosier raised 🌽
-* 🎓  BYU Strategy & Computer Science
-* ⚽️  Soccer training business [website](http://startup.toca.pro)
+* 🎓  BYU MISM '26, Strategic Management major, Computer Science minor
 * 🔜  Personal website in the works!
 
 <a href="https://www.x.com/callthys" target="_blank" rel="noreferrer"><img
