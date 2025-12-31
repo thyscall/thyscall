@@ -1,7 +1,7 @@
 Solving real problems with real products
 ---------------
 
-I saw the need for technical abilities while founding a legaltech startup called Parallel that increased patent drafting efficiency for IP lawyers and firms. My passion for business growth soon grew to a desire to build high-value products. My product engineering journey is here.
+I saw the need for technical abilities while founding a legaltech startup that increased patent drafting efficiency for IP lawyers and firms. My passion for business growth soon grew to a desire to build high-value products. My product engineering journey is here.
 
 * 📈  All things product, startups, AI, security, UX/UI, sports performance, behavioral psych, and more.
 * 🏔️  Utah born, Hoosier raised 🌽
