@@ -1,16 +1,13 @@
 Solving real problems with real products
 ---------------
 
-I saw the need for technical abilities while founding a legaltech startup called Parallel that increased patent drafting efficiency for IP lawyers and firms by 20%. My passion for business growth soon grew to a desire to build high-value products. My product engineering journey is here.
+I saw the need for technical abilities while founding a legaltech startup called Parallel that increased patent drafting efficiency for IP lawyers and firms. My passion for business growth soon grew to a desire to build high-value products. My product engineering journey is here.
 
-* 📈  All things product, startups, web design, brand strategy, UX/UI, sports performance, behavioral psych, and more.
+* 📈  All things product, startups, AI, security, UX/UI, sports performance, behavioral psych, and more.
 * 🏔️  Utah born, Hoosier raised 🌽
 * 🎓  BYU MISM '26, Strategic Management major, Computer Science minor
-* 🔜  Personal website in the works!
+* ✍🏼 <a href="https://substack.com/@thyscall" target="_blank" rel="noreferrer">Substack</a>
 
-<a href="https://www.x.com/callthys" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/callthys?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
-/></a>
 
 ### Skills
 
