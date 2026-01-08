@@ -1,4 +1,4 @@
-Solving real problems with real products
+Solving problems with products
 ---------------
 
 I saw the need for technical abilities while founding a legaltech startup that increased patent drafting efficiency for IP lawyers and firms. My passion for business growth soon grew to a desire to build high-value products. My product engineering journey is here.
