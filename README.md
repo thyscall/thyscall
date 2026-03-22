@@ -1,7 +1,9 @@
 Solving problems with products
 ---------------
 
-I saw the need for technical abilities while founding a legaltech startup that increased patent drafting efficiency for IP lawyers and firms. My passion for business growth soon grew to a desire to build high-value products. My product engineering journey is here.
+Performance metrics were my second language. Every day after elementary school, I would come home and memorize the sports stats from the day: box scores, batting averages, goals scored, win streaks, records broken, you name it. 
+
+I work with startups and growth stage companies on building the infrastructure that turns business performance data into a product that revenue and GTM teams can use to scale. My focus is building the systems that turn business performance data into something teams can actually read, act on, and build from. Time to value, conversion rates, pipeline velocity, market signals, and revenue attribution are my professional "sports stats."
 
 * 📈  All things product, startups, AI, security, UX/UI, sports performance, behavioral psych, and more.
 * 🏔️  Utah born, Hoosier raised 🌽
